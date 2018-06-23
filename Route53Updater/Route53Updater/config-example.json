@@ -1,0 +1,9 @@
+﻿{
+  "aws_access_key_id": "access_key_id",
+  "aws_secret_access_key": "key",
+  "aws_region": "us-east-1",
+  "aws_hosted_zone": "mydomainname.com.",
+  "subdomains": [
+    "somesubdomain"
+  ]
+}
